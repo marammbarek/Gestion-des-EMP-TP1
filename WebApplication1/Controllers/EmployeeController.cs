@@ -136,6 +136,7 @@ namespace WebApplication1.Controllers
                     // Rediriger vers la liste des employés après suppression
                     return RedirectToAction(nameof(Index));
 
+                    //add random comment 
                 }
                 else
                 {
