@@ -1,0 +1,7 @@
+.vs/
+WebApplication1/bin/
+WebApplication1/obj/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
